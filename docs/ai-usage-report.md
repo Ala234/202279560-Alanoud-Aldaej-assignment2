@@ -43,6 +43,7 @@ ChatGPT was used to help me understand how to improve user experience through si
   });
 })();
 ```
+<img width="216" height="80" alt="image" src="https://github.com/user-attachments/assets/12cd8745-8d53-49c1-aa3a-2fe889210ef7" />
 
 In this part, I used `localStorage` to save the user’s theme preference. When the page loads, the saved value is retrieved and applied automatically. If no value is found, a default theme is used. AI helped me understand how data can be stored and retrieved, and how it connects with the interface to update the page dynamically.
 
@@ -96,9 +97,11 @@ In this part, I used navigation links to allow users to move between different s
     box-shadow: 0 15px 30px rgba(199,125,255,0.5);
 }
 ```
+<img width="1197" height="359" alt="image" src="https://github.com/user-attachments/assets/0788885b-2693-420e-a745-2c1ff8652969" />
 
-In this part, I applied CSS transitions and hover effects to make interactions smoother and more responsive. These small effects improve how the user experiences the interface. AI helped me understand how transitions work and how they can be applied to different elements.
+In this part, I applied CSS transitions and hover effects to different elements, such as the theme button, project cards, and skill boxes. These effects make interactions feel smoother and give visual feedback when the user hovers over elements. AI helped me understand how transitions work in CSS and how they can be used to enhance user experience without making the design too complex.
 
+## 4. Error handling
 ---
 
 ## 4. Error handling
@@ -111,6 +114,7 @@ In this part, I applied CSS transitions and hover effects to make interactions s
   <button type="submit">Send Message</button>
 </form>
 ```
+<img width="928" height="622" alt="image" src="https://github.com/user-attachments/assets/3da38a5c-6f0b-4d3d-a544-f9172248bdde" />
 
 In this part, I used built-in HTML validation using the `required` attribute to prevent empty inputs. Also, when entering an invalid email format, the browser automatically shows a message asking the user to include a valid format (such as including “@”). This provides basic error handling and improves the usability of the form. AI helped me understand how validation works and why it is important for user input.
 
