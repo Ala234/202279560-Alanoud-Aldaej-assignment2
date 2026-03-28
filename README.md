@@ -1,12 +1,11 @@
-# Assignment 1
+# Assignment 2
+
 ## Assignment description
-This assignment is a personal portfolio website that presents basic information about me, my projects, skills, and contect details.
+This assignment is a personal portfolio website that presents basic information about me, my projects, skills, and contact details.
 
-This assignment was built using **HTML, CSS, and JavaScript** with a foucus on styling and simple interactivity.
+This assignment was built using **HTML, CSS, and JavaScript**, with a focus on implementing some interactive features to improve user experience.
 
-`AI` tools were used during the development phase, specifically in **CSS**  (for UI/UX design suggestions) , details are in ( `ai-usage-report.md`) 
-
-Content, design and concept of this portfolio was designed by `ALANOUD ALDAEJ`
+this portfolio were designed by `ALANOUD ALDAEJ`.
 
 ## Setup instructions
 1. Make sure **Visual Studio Code** is installed on your device.
@@ -20,15 +19,12 @@ https://github.com/Ala234/202279560-Alanoud-Aldaej-assignment1.git
 6. If a security message appears, choose **Trust and Authors**.
 7. After cloning is complete, locate and open the `index.html` file.
 8. View the project in a web browser by:
-- Opening the file directly in the browser by clicking on `Run without debugging`
+- Opening the file directly in the browser or clicking on `Run without debugging`
 - The following page should appear
 - ![portfolio-preview](https://github.com/user-attachments/assets/ec0a1b2f-1c54-4eb8-81a3-d3994dcd3bae)
 
 ## Short summary of AI use
-AI was used as a supportive tool to provide minor suggestions related to UI/UX design, such as color adjustments and small visual improvements. The overall design, structure, and final decisions of the portfolio were entirely my own, with AI suggestions used only to refine and enhance the appearance.
-
-AI was also used occasionally to clarify concepts and help debug issues, understanding code, and learning new techniques, limitedly used in HTML and JavaScript for guidance. Most of the assistance was related to CSS, where small styling suggestions helped improve visual consistency and readability. Details are in ( `ai-usage-report.md`) 
+AI was used to clarify concepts and help with understanding and implementing simple interactive features. It was also used occasionally to assist with debugging and learning how certain features work. The overall work and final decisions were done independently. More details are provided in (`ai-usage-report.md`).
 
 ## The portfolio site
 [Alanoud Aldaej](https://ala234.github.io/202279560-Alanoud-Aldaej-assignment1/)-Software Engineer
-
