@@ -5,7 +5,7 @@ Personal Portfolio Assignment
 
 ## 1. Project Overview
 
-This project is a front-end personal portfolio website developed to present my academic background, technical skills, and completed projects in a clear and organized way.  
+This project is a personal portfolio website developed to present my academic background, technical skills, and completed projects in a clear and organized way.  
 
 The website is implemented as a static web application that runs entirely on the client side without requiring any backend services or database integration.
 
