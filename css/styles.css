@@ -24,7 +24,6 @@ body {
     background: rgba(255,255,255,0.15);
     color: white;
     font-weight: bold;
-    backdrop-filter: blur(10px);
     transition:  0.3s, transform 0.2s;
     z-index: 1000;
 }
@@ -124,7 +123,7 @@ nav a {
 .hero p {
     font-size: 18px;
     margin-top: 10px;
-    opacity: 0.8;
+    opacity: 1.0;
 }
 
 /*  SECTIONS  */
@@ -279,3 +278,126 @@ section h2 {
   opacity: 0.9;
 }
 
+/* ===== GitHub API Section ===== */
+#api-message {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #fca5a5;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #60a5fa;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+.repo-icon {
+  margin-top: 1rem;
+  font-size: 2rem;
+  color: #c77dff;
+}
+
+/* ===== Project Controls ===== */
+.project-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.project-controls button,
+.project-controls select {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.project-controls button {
+  background: #8b5cf6;
+  color: white;
+}
+
+.project-controls select {
+  background: white;
+  color: #111827;
+}
+
+/* ===== Contact Form Message ===== */
+#form-message {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+/* ===== Visitor Timer ===== */
+#visitor-timer p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+#time-counter {
+  color: #c77dff;
+  font-weight: bold;
+}
+
+.filter-btn.active {
+  outline: 2px solid white;
+  transform: scale(1.05);
+}
+
+/* ===== Visitor Name Section ===== */
+.name-box {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.name-box input {
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  min-width: 220px;
+}
+
+.name-box button {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  background: #8b5cf6;
+  color: white;
+}
+
+.name-box button:hover {
+  opacity: 0.9;
+}
+
+#visitor-greeting {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* ===== Fix Theme Button Overlap ===== */
+
+@media (max-width: 768px) {
+  #theme-toggle {
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+  }
+}
