@@ -29,4 +29,4 @@ https://github.com/Ala234/202279560-Alanoud-Aldaej-assignment1.git
 AI was used to clarify concepts and help with understanding and implementing simple interactive features. It was also used occasionally to assist with debugging and learning how certain features work. The overall work and final decisions were done independently. More details are provided in (`ai-usage-report.md`).
 
 ## The portfolio site
-[Alanoud Aldaej](https://ala234.github.io/202279560-Alanoud-Aldaej-assignment2/)-Software Engineer
+[Alanoud Aldaej](https://ala234.github.io/202279560-Alanoud-Aldaej-assignment3/)-Software Engineer
